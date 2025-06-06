@@ -2,7 +2,7 @@
 
 A lightweight Express.js API to check whether a number is a prime.
 
-## How to Run Locally
+-> How to Run Locally
 
 ```bash
 git clone https://github.com/your-username/prime-check-api.git
@@ -28,3 +28,7 @@ Express.js
 Clean modular code
 Type and range validations
 Returns informative JSON responses
+
+## API Screenshot
+Below is a screenshot of the API running locally:
+![Prime API Screenshot](./image.png)
